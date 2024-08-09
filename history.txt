@@ -1,0 +1,40 @@
+Student Name:   Zainab Iqbal
+Student ID  :   206
+Issued Book :   Database Management System
+Issued Date :   27/1/2024 16:1:15
+
+Student Name:   Sana Ahmed
+Student ID  :   204
+Issued Book :   Big Data
+Issued Date :   27/1/2024 16:1:31
+
+Student Name:   Fatima Malik
+Student ID  :   202
+Issued Book :   Multivariate Calculus
+Issued Date :   27/1/2024 16:1:50
+
+Student Name:   Nadia Abbas
+Student ID  :   208
+Issued Book :   Data Structures and ALgorithms
+Issued Date :   27/1/2024 16:2:10
+
+Student Name:   Nadia Abbas
+Student ID  :   208
+Issued Book :   Big Data
+Issued Date :   27/1/2024 16:2:19
+
+Student Name:   Bilal Shah
+Student ID  :   209
+Issued Book :   Introduction to Computer Science
+Issued Date :   27/1/2024 16:2:35
+
+Student Name:   Zainab Iqbal
+Student ID  :   206
+Issued Book :   Database Management System
+Issued Date :   27/1/2024 17:13:5
+
+Student Name:   Zainab Iqbal
+Student ID  :   206
+Returned Book :   Database Management System
+Returned Date :   0/1/1900 0:0:0
+
