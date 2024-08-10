@@ -208,7 +208,7 @@ public:
 			}
 			else if (choice == 4)
 			{
-				cout << "Logging out..." << endl;
+				cout << "Logging out...." << endl;
 			}
 			else
 			{
