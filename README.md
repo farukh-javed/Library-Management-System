@@ -1,33 +1,33 @@
-# Library Management System
+# 📚 Library Management System
 
 A simple console-based Library Management System built in C++ to help manage books and users in a library setting.
 
-## Features
+## ✨ Features
 
-- **Librarian Login:**
+- **🔒 Librarian Login:**
   - Secure login with a predefined username and password.
   - Add new books to the library collection.
   - Update and delete existing books.
   - Display all available books.
   - View and manage all issued books.
 
-- **User Login:**
+- **👥 User Login:**
   - Secure login using a valid university ID.
   - Search for books and issue them.
   - Return books to the library.
   - View books currently issued to them.
 
-## Project Structure
+## 📂 Project Structure
 
 - **`main.cpp`**: The main source file containing all functionalities for the system.
 
-## Key Classes
+## 🏷️ Key Classes
 
 - **`Node`**: Represents each book in the system using a binary search tree structure.
 - **`Student`**: Represents user information including name, ID, and issued books.
 - **`LibraryManagement`**: Core class handling all library operations like book management and user transactions.
 
-## How to Run
+## 🚀 How to Run
 
 ### Prerequisites
 
@@ -45,7 +45,7 @@ A simple console-based Library Management System built in C++ to help manage boo
    ./library_management_system
    ```
 
-### Usage Instructions
+### 📝 Usage Instructions
 
 - **Librarian**:
   - Username: `admin`
@@ -53,17 +53,17 @@ A simple console-based Library Management System built in C++ to help manage boo
 - **Users**:
   - Enter a valid university ID (e.g., 201, 202, ...).
 
-## File Operations
+## 📁 File Operations
 
 - **`books.txt`**: Stores details about all books in the library.
 - **`issued_books.txt`**: Tracks the books that have been issued to users.
 
-> Ensure that both `books.txt` and `issued_books.txt` files are in the same directory as the executable for the application to function correctly.
+> ⚠️ Ensure that both `books.txt` and `issued_books.txt` files are in the same directory as the executable for the application to function correctly.
 
-## Contribution Guidelines
+## 🤝 Contribution Guidelines
 
 We welcome contributions to enhance this project! Please fork this repository and create a pull request with your improvements.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
