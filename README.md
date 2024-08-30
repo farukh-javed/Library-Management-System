@@ -66,4 +66,4 @@ We welcome contributions to enhance this project! Please fork this repository an
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+GNU v3 License. See LICENSE for details.
